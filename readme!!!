@@ -1,2 +1,4 @@
+from sys import quit
 while 1:
   print 'Fuck you!'
+  quit()
